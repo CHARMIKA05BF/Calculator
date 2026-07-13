@@ -41,7 +41,7 @@ calculator/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/somuladundivenkataganesh-dot/calculator.git
+git clone https://github.com/CHARMIKA05BF/Calculator
 ```
 
 ### 2. Navigate to the Project Folder
